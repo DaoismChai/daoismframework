@@ -3,11 +3,11 @@
 daoismframework是一个基于springcloud全家桶技术的微服务框架，支持灰度发布、API网关、全链路压测、负载均衡、支持读写分离（暂时交给数据库本身）、轻量级的后台框架。
 
 框架的组成：
-1.daoism-common-util。
-2.daoism-api-gateway。
+1.daoism-service-common。
+2.daoism-service-gateway。
 
 
-daoism-api-gateway需要具备的特性：
+daoism-service-gateway需要具备的特性：
 1.动态路由，即系统可以动态配置路由。
 2.热运维，运维时候，要永远在线，不能影响线上业务。
 3.鉴权机制
