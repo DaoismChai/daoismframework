@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="daoism-all" />
         <module name="daoism-service-common" />
+        <module name="daoism-service-all" />
         <module name="daoism-service-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="daoism-all" target="1.5" />
+      <module name="daoism-service-all" target="1.5" />
       <module name="daoism-service-common" target="1.5" />
       <module name="daoism-service-gateway" target="1.5" />
     </bytecodeTargetLevel>

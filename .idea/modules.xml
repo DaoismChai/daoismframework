@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/daoism-all/daoism-all.iml" filepath="$PROJECT_DIR$/daoism-all/daoism-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daoism-all/daoism-service-all.iml" filepath="$PROJECT_DIR$/daoism-all/daoism-service-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoism-service-common/daoism-service-common.iml" filepath="$PROJECT_DIR$/daoism-service-common/daoism-service-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoism-service-gateway/daoism-service-gateway.iml" filepath="$PROJECT_DIR$/daoism-service-gateway/daoism-service-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoismframework.iml" filepath="$PROJECT_DIR$/daoismframework.iml" />
