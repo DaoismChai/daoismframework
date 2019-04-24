@@ -7,7 +7,7 @@ DaoismFramework是一个基于springcloud全家桶技术的微服务框架，支
 2.daoism-service-gateway。
 
 
-daoism-service-gateway需要具备的特性：
+daoism-service-gateway需要具备的特性：<br>
 1.动态路由，即系统可以动态配置路由。
 2.热运维，运维时候，要永远在线，不能影响线上业务。
 3.鉴权机制
